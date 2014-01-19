@@ -15,4 +15,4 @@ Check out the [dateformat docs](http://blog.stevenlevithan.com/archives/date-tim
 
 	dateFormat(new Date().getTime(), "dddd, mmmm dS, yyyy, h:MM TT");
 
-### [Acknowledgement:](http://blog.stevenlevithan.com/)
+### [Acknowledgement](http://blog.stevenlevithan.com/)
