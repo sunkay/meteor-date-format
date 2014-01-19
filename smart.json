@@ -3,7 +3,7 @@
 	"description": "Meteor package to format dates", 
 	"homepage": "http://blog.stevenlevithan.com/archives/date-time-format",
 	"author": "sunkay",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"git": "https://github.com/sunkay/meteor-date-format",
 	"packages": {
 	}

@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "dateformatjs": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "dateformatjs": {
+        "path": "."
+      }
+    }
+  }
+}
