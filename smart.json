@@ -3,8 +3,8 @@
 	"description": "Meteor package to format dates", 
 	"homepage": "https://github.com/sunkay/meteor-date-format",
 	"author": "sunkay",
-	"version": "0.1.2",
-	"git": "https://github.com/sunkay/meteor-date-format",
+	"version": "0.1.3",
+	"git": "https://github.com/sunkay/meteor-date-format.git",
 	"packages": {
 	}
 }
