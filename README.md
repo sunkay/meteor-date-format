@@ -2,7 +2,8 @@
 
 JavaScript date format package for Meteor 
 
-This is a the [dateformatjs code](http://blog.stevenlevithan.com/archives/date-time-format) as a meteor smart package.
+This a tiny (~100 lines) piece of [date/time formatting](http://blog.stevenlevithan.com/archives/date-time-format) code
+by [xregexp author Steven Levithan](https://github.com/slevithan), repackaged for Meteor. It hasn't been maintained since 2009.
 
 ###How to use?
 
@@ -15,4 +16,3 @@ Check out the [dateformat docs](http://blog.stevenlevithan.com/archives/date-tim
 
 	dateFormat(new Date().getTime(), "dddd, mmmm dS, yyyy, h:MM TT");
 
-### [Acknowledgement](http://blog.stevenlevithan.com/)
