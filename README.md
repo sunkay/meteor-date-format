@@ -8,7 +8,7 @@ by [xregexp author Steven Levithan](https://github.com/slevithan), repackaged fo
 ###How to use?
 
 1. Install [meteorite](https://github.com/oortcloud/meteorite)
-2. `mrt add date-formatjs`
+2. `mrt add dateformatjs`
 
 Check out the [dateformat docs](http://blog.stevenlevithan.com/archives/date-time-format) for more details.
 
